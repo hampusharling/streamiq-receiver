@@ -1,20 +1,5 @@
-.background {
-  background-color: #0d141c;
+cast-media-player {
+  --background-color: #0d141c;
+  --logo-image: url(../streamiq-receiver/images/logo.png);
+  --progress-color: #9ecaff;
 }
-
-.logo {
-  background-image: url(../images/logo.png);
-}
-
-.progressBar {
-  background-color: #9ecaff;
-}
-
-/*.splash {
-  background-image: url(splash.png);
-}
-
-.watermark {
-  background-image: url(watermark.png);
-  background-size: 57px 57px;
-}*/
