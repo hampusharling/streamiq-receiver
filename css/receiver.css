@@ -1,5 +1,6 @@
 cast-media-player {
   --background-color: #0d141c;
   --logo-image: url(../streamiq-receiver/images/logo.png);
+  --logo-size: 40%;
   --progress-color: #9ecaff;
 }
